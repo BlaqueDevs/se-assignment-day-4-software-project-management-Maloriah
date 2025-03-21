@@ -46,18 +46,24 @@ Gantt charts assist in this process as it helps project managers to visualize an
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+Issues: Inefficient record-keeping, communication gaps with parents, complex billing, and difficulty managing staff and child schedules.
+Significance: These issues lead to administrative overload, potential errors, and reduced quality of care, impacting both daycare providers and parents.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
 Clearly defining a problem is imprtant in that it helps in clearly understanding an existing problem and from this generate strategies, project specifications and the right methodologies to solve this problem and help the methodology funtion while meeting user requirements.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
+Focuses development on streamlining specific tasks like attendance, billing, communication and providing a user-friendly, efficient solution that saves time and reduces cost and complexity.
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
+The main features of the software include child attendance tracking, parent communication portal, automated billing, staff scheduling, and detailed reporting.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
+The daycare market is substantial and growing, driven by increasingworking families/parents set up. Market research shows a consistent demand for efficient daycare management solutions. 
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Understanding market trends helps position the software effectively, adapt to user needs, and stay competitive in the ever-changing market landscape.
